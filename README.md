@@ -1,7 +1,13 @@
 # Q8-Guardian---Backdoor-Inspection-Tool
 Advanced Windows Backdoor Inspection &amp; Persistence Analyzer. Behavioral-based threat detection tool for analyzing processes, network activity, and persistence mechanisms.
+
+
+![Windows](https://img.shields.io/badge/Platform-Windows-blue)
+![Version](https://img.shields.io/badge/Version-1.0-green)
+![Security Tool](https://img.shields.io/badge/Type-Security%20Inspector-red)
+![GitHub Stars](https://img.shields.io/github/stars/MRtalalq8/Q8-Guardian?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/MRtalalq8/Q8-Guardian?style=social)
 ![Profile Views](https://komarev.com/ghpvc/?username=MRtalalq8&color=blue)
-![Repo Views](https://visitor-badge.laobi.icu/badge?page_id=MRtalalq8.Q8-Guardian)
 # 🔐 Q8 Guardian  
 ## Advanced Windows Backdoor Inspection & Persistence Analyzer
 
