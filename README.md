@@ -9,7 +9,7 @@ Advanced Windows Backdoor Inspection &amp; Persistence Analyzer. Behavioral-base
 ![GitHub Forks](https://img.shields.io/github/forks/MRtalalq8/Q8-Guardian?style=social)
 ![Profile Views](https://komarev.com/ghpvc/?username=MRtalalq8&color=blue)
 ![Repo Views](https://visitor-badge.laobi.icu/badge?page_id=MRtalalq8.Q8-Guardian)
-# 🔐 Q8 Guardian  
+# 🔐 Q8 Guardian  Free Now
 ## Advanced Windows Backdoor Inspection & Persistence Analyzer
 
 🖼️ **Program Preview**  
