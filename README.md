@@ -14,7 +14,7 @@ Advanced Windows Backdoor Inspection &amp; Persistence Analyzer. Behavioral-base
 ## Advanced Windows Backdoor Inspection & Persistence Analyzer
 
 🖼️ **Program Preview**  
-![Q8 Guardian Preview](https://j.top4top.io/p_3709ums3w1.png)
+
 
 🛒 **Official Store**  
 https://ko-fi.com/talalq8x#setGoalModal
